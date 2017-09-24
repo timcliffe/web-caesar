@@ -30,7 +30,7 @@ form = """
     <body>
 		<form method="POST">
 			<label for="rot">Rotate by: </label>
-			<input name="post" type="text" value="0"></input>
+			<input name="rot" type="text" value="0"></input>
 			<textarea name="text">{0}</textarea>
             <input type="submit"></input>
 		</form>
