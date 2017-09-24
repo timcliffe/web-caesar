@@ -1,7 +1,7 @@
-from flask import flask
+from flask import Flask
 from caesar import rotate_string
 
-app = Flask(_name_)
+app = Flask(__name__)
 app.config['DEBUG'] = True
 
 
