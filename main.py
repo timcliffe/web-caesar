@@ -6,7 +6,7 @@ app.config['DEBUG'] = True
 
 
 
-<form = """
+form = """
 <!DOCTYPE html>
 
 <html>
